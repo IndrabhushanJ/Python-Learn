@@ -516,5 +516,5 @@ import math
 # bye()
 #
 # help("modules")
-player = "indra"
+player = "indrabhusan"
 print(player, "won")
